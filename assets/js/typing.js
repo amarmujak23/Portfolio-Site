@@ -1,4 +1,4 @@
-/*t.js-1.5.6;(c)2014-2019 - Mntn(r) <https://mn.tn/> c/o Benjamin Lips <g--[AT]--mn.tn>;MIT-Licensed <https://mit-license.org/>;For documentation, see <https://mntn-dev.github.io/t.js/>*/ ;
+
 (function(c) {
     c.fn.t = function(k, J) {
       return this.each(function() {
